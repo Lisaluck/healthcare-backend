@@ -1,7 +1,5 @@
 
 
-create a readme for my django project which contain healthcare backend to be run on postman api
-Healthcare Backend System (Django REST Framework)
 A Django-based backend for a healthcare application that manages patients, doctors, and their mappings using JWT authentication. Built with Django REST Framework (DRF) and PostgreSQL.
 
 🚀 Features
